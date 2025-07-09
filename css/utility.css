@@ -1,0 +1,20 @@
+/* color */
+
+
+.oldColor {
+
+    color: #111111; /* black text in menu color */
+}
+
+.newColor{
+
+    color: #856de5;
+    color: #6e2feb; /* hover buttons color */
+    color: #ffffffb3; /* text color in menu */
+    color: #565656b3; /* border separator */
+
+    color: #350c65; /* sections colors 2b123e 48037c 3a0b70*/ 
+    color: #111111; /* sections colors */
+        
+}
+
